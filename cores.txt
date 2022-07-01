@@ -1,0 +1,29 @@
+Hexadecial: 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+# _ _ _ _ _ _
+
+0 = ausência
+
+F = máximo
+
+#000000 = Preto
+
+#FFFFFF = Branco
+
+#FF0000 = Vermelho
+
+Red
+Blue
+yellow
+
+RGB 0,1,2,3,...255
+
+0 = ausência
+
+255 = máximo
+
+rgb(255,255,255)
+
+rgb(0,0,255) = blue
